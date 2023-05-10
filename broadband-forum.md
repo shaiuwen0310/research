@@ -1,12 +1,14 @@
-# TR-369
-## overview
+# broadband-forum Technical Reports
+* https://www.broadband-forum.org/technical-reports
+## TR-369
+### overview
 * https://www.qacafe.com/resources/user-services-platform-tr-369-overview/
 * 
-## Specification
+### Specification
 * https://usp.technology/specification/index.html
 * https://www.broadband-forum.org/download/TR-369.pdf
 * 
-## data model
+### data model
 * https://github.com/BroadbandForum/usp/blob/master/specification/usp-record-1-2.proto
 * https://github.com/BroadbandForum/usp/blob/master/specification/usp-msg-1-2.proto
 * https://www.qacafe.com/resources/usp-records-and-messages/
