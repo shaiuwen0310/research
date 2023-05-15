@@ -9,6 +9,7 @@
 * https://www.broadband-forum.org/download/TR-369.pdf
 * 
 ### data model
+* https://usp-data-models.broadband-forum.org/
 * https://github.com/BroadbandForum/usp/blob/master/specification/usp-record-1-2.proto
 * https://github.com/BroadbandForum/usp/blob/master/specification/usp-msg-1-2.proto
 * https://www.qacafe.com/resources/usp-records-and-messages/
