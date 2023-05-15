@@ -12,3 +12,11 @@
 * https://github.com/BroadbandForum/usp/blob/master/specification/usp-record-1-2.proto
 * https://github.com/BroadbandForum/usp/blob/master/specification/usp-msg-1-2.proto
 * https://www.qacafe.com/resources/usp-records-and-messages/
+## TP-469 – Conformance Test Plan for USP Agents
+### Specification
+* https://usp-test.broadband-forum.org/00-index-contents.html#contents
+* https://www.broadband-forum.org/technical/download/TP-469.pdf
+## TR-181 – Device Data Model
+### Specification
+* https://device-data-model.broadband-forum.org/
+* https://www.broadband-forum.org/download/TR-181_Issue-2_Amendment-2.pdf
