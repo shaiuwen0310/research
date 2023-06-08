@@ -25,3 +25,5 @@
 ### Specification
 * https://device-data-model.broadband-forum.org/
 * https://www.broadband-forum.org/download/TR-181_Issue-2_Amendment-2.pdf
+## uci command
+* OpenWrt UCI 学习笔记: https://blog.csdn.net/rainforest_c/article/details/70139962
